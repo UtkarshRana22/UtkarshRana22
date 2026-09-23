@@ -2,14 +2,17 @@
      UTKARSH RANA — GITHUB PROFILE
      ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:0d1117&height=180&section=header&text=Utkarsh%20Rana&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Systems%20%E2%80%A2%20Automation%20%E2%80%A2%20Robotics%20%26%20Embedded&descAlignY=58&descSize=18" width="100%" />
-</p>
+<h1 align="center">Utkarsh Rana</h1>
+<h3 align="center">Full-Stack Systems • Automation • Robotics &amp; Embedded Systems</h3>
 
 <h2 align="center">$ whoami</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=1F3864&center=true&vCenter=true&width=700&lines=I+build+things+that+remove+friction.;Scripts+that+authenticate+networks+so+you+don't+have+to.;Tools+that+generate+reports+so+no+one+manually+types+them.;Control+systems+that+make+hardware+behave." alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+things+that+remove+friction.;Scripts+that+authenticate+networks+so+you+don't+have+to.;Tools+that+generate+reports+so+no+one+manually+types+them.;Control+systems+that+make+hardware+behave." />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=0B3D91&center=true&vCenter=true&width=750&lines=I+build+things+that+remove+friction.;Scripts+that+authenticate+networks+so+you+don't+have+to.;Tools+that+generate+reports+so+no+one+manually+types+them.;Control+systems+that+make+hardware+behave." />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+things+that+remove+friction.;Scripts+that+authenticate+networks+so+you+don't+have+to.;Tools+that+generate+reports+so+no+one+manually+types+them.;Control+systems+that+make+hardware+behave." alt="Typing SVG" />
+  </picture>
 </p>
 
 <p align="center">
@@ -24,7 +27,7 @@
   <img src="https://img.shields.io/github/followers/UtkarshRana22?label=Followers&style=for-the-badge&color=1F3864&labelColor=0d1117" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0d1117&height=3&width=100%25" width="100%" />
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════
      STATS ROW
@@ -44,7 +47,7 @@
   🦈 <b>Pull Shark</b> — sustained history of merged pull requests &nbsp;|&nbsp; 🚀 <b>YOLO</b> — merged without waiting on review, ships fast, owns it
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0d1117&height=3&width=100%25" width="100%" />
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════
      ABOUT — man page style
@@ -72,7 +75,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0d1117&height=3&width=100%25" width="100%" />
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════
      SKILLS
@@ -110,7 +113,7 @@
   <code>Automation tooling</code> · <code>Robotics competition engineering</code> · <code>Full-stack web platforms</code> · <code>Retrieval-augmented AI</code>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0d1117&height=3&width=100%25" width="100%" />
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════
      PROJECTS
@@ -176,7 +179,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0d1117&height=3&width=100%25" width="100%" />
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════
      CERTIFICATIONS — full list
@@ -209,7 +212,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0d1117&height=3&width=100%25" width="100%" />
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════
      GITHUB STATS
@@ -234,7 +237,7 @@
   <img src="https://raw.githubusercontent.com/UtkarshRana22/UtkarshRana22/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:0d1117&height=3&width=100%25" width="100%" />
+<hr/>
 
 <!-- ═══════════════════════════════════════════════════════════
      CONTACT
@@ -252,4 +255,6 @@
   <a href="https://utkarshrana.in"><img src="https://img.shields.io/badge/Portfolio-utkarshrana.in-1F3864?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1F3864&height=100&section=footer" width="100%" />
+<hr/>
+
+<p align="center"><i>~ $ building across automation, robotics, and full-stack systems — one PR at a time_</i></p>
