@@ -3,11 +3,7 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2200&pause=100000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Utkarsh+Rana" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2200&pause=100000&color=0B3D91&center=true&vCenter=true&width=600&height=60&lines=Utkarsh+Rana" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2200&pause=100000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=Utkarsh+Rana" alt="Utkarsh Rana" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/UtkarshRana22/UtkarshRana22/main/assets/name-contrib-style.svg" alt="Utkarsh Rana" />
 </p>
 
 <h3 align="center">Full-Stack Systems • Automation • Robotics &amp; Embedded Systems</h3>
