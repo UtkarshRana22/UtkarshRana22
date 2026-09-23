@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="434" height="70" viewBox="0 0 434 70">
+<style>text{font-family:'Fira Code','Courier New',monospace;font-weight:700;}</style>
+<text x="20" y="46" font-size="46" fill="#58A6FF" opacity="0"><title>U — Unix Shell</title>U<animate attributeName="opacity" from="0" to="1" begin="0.00s" dur="0.4s" fill="freeze" /></text>
+<text x="54" y="46" font-size="46" fill="#3178C6" opacity="0"><title>T — TypeScript</title>T<animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.4s" fill="freeze" /></text>
+<text x="88" y="46" font-size="46" fill="#7F52FF" opacity="0"><title>K — Kotlin</title>K<animate attributeName="opacity" from="0" to="1" begin="0.24s" dur="0.4s" fill="freeze" /></text>
+<text x="122" y="46" font-size="46" fill="#6E4C13" opacity="0"><title>A — Assembly</title>A<animate attributeName="opacity" from="0" to="1" begin="0.36s" dur="0.4s" fill="freeze" /></text>
+<text x="156" y="46" font-size="46" fill="#DEA584" opacity="0"><title>R — Rust</title>R<animate attributeName="opacity" from="0" to="1" begin="0.48s" dur="0.4s" fill="freeze" /></text>
+<text x="190" y="46" font-size="46" fill="#F05138" opacity="0"><title>S — Swift</title>S<animate attributeName="opacity" from="0" to="1" begin="0.60s" dur="0.4s" fill="freeze" /></text>
+<text x="224" y="46" font-size="46" fill="#5E5086" opacity="0"><title>H — Haskell</title>H<animate attributeName="opacity" from="0" to="1" begin="0.72s" dur="0.4s" fill="freeze" /></text>
+<text x="278" y="46" font-size="46" fill="#CC342D" opacity="0"><title>R — Ruby</title>R<animate attributeName="opacity" from="0" to="1" begin="0.84s" dur="0.4s" fill="freeze" /></text>
+<text x="312" y="46" font-size="46" fill="#02F88C" opacity="0"><title>A — Ada</title>A<animate attributeName="opacity" from="0" to="1" begin="0.96s" dur="0.4s" fill="freeze" /></text>
+<text x="346" y="46" font-size="46" fill="#FFC200" opacity="0"><title>N — Nim</title>N<animate attributeName="opacity" from="0" to="1" begin="1.08s" dur="0.4s" fill="freeze" /></text>
+<text x="380" y="46" font-size="46" fill="#5A8164" opacity="0"><title>A — APL</title>A<animate attributeName="opacity" from="0" to="1" begin="1.20s" dur="0.4s" fill="freeze" /></text>
+</svg>
