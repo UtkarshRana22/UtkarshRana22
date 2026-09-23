@@ -228,17 +228,24 @@
 <h4 align="center">$ github --stat --year=2026</h4>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=UtkarshRana22&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=UtkarshRana22&theme=default&hide_border=true" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=UtkarshRana22&theme=default&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="56%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshRana22&layout=compact&hide_border=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UtkarshRana22&theme=flat&no-frame=true&row=1&column=6" />
-</p>
+<table align="center">
+  <tr><td align="center" colspan="2"><b>top languages</b></td></tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p>Python&nbsp;&nbsp;&nbsp;<code>█████████░</code> 90%</p>
+      <p>JS / TS&nbsp;&nbsp;<code>████████░░</code> 85%</p>
+      <p>C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>███████░░░</code> 75%</p>
+    </td>
+    <td width="50%" valign="top">
+      <p>Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>███████░░░</code> 70%</p>
+      <p>HTML/CSS&nbsp;<code>██████░░░░</code> 65%</p>
+      <p>Kotlin&nbsp;&nbsp;&nbsp;&nbsp;<code>██████░░░░</code> 60%</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/UtkarshRana22/UtkarshRana22/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
