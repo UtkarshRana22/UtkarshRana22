@@ -12,9 +12,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+things+that+remove+friction.;Scripts+that+authenticate+networks+so+you+don't+have+to.;Tools+that+generate+reports+so+no+one+manually+types+them.;Control+systems+that+make+hardware+behave." />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=800&color=0B3D91&center=true&vCenter=true&width=750&lines=I+build+things+that+remove+friction.;Scripts+that+authenticate+networks+so+you+don't+have+to.;Tools+that+generate+reports+so+no+one+manually+types+them.;Control+systems+that+make+hardware+behave." />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+things+that+remove+friction.;Scripts+that+authenticate+networks+so+you+don't+have+to.;Tools+that+generate+reports+so+no+one+manually+types+them.;Control+systems+that+make+hardware+behave." alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2200&pause=900&color=39D353&center=true&vCenter=true&width=750&lines=%24+whoami+--verbose;%3E+role%3A+full-stack%2C+automation%2C+robotics+and+embedded;%3E+builds%3A+auth+scripts%2C+report+generators%2C+control+loops;%3E+status%3A+always+shipping+something" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2200&pause=900&color=1A7F37&center=true&vCenter=true&width=750&lines=%24+whoami+--verbose;%3E+role%3A+full-stack%2C+automation%2C+robotics+and+embedded;%3E+builds%3A+auth+scripts%2C+report+generators%2C+control+loops;%3E+status%3A+always+shipping+something" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=2200&pause=900&color=39D353&center=true&vCenter=true&width=750&lines=%24+whoami+--verbose;%3E+role%3A+full-stack%2C+automation%2C+robotics+and+embedded;%3E+builds%3A+auth+scripts%2C+report+generators%2C+control+loops;%3E+status%3A+always+shipping+something" alt="Typing SVG" />
   </picture>
 </p>
 
