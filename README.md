@@ -8,7 +8,13 @@
 
 <h3 align="center">Full-Stack Systems • Automation • Robotics &amp; Embedded Systems</h3>
 
-<h2 align="center">$ whoami</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20whoami" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20whoami" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20whoami" alt="$ whoami" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
@@ -45,7 +51,13 @@
   </tr>
 </table>
 
-<h4 align="center">$ cat achievements.log</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20achievements.log" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20achievements.log" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20achievements.log" alt="$ cat achievements.log" />
+  </picture>
+</p>
 <p align="center">
   🦈 <b>Pull Shark</b> — sustained history of merged pull requests &nbsp;|&nbsp; 🚀 <b>YOLO</b> — merged without waiting on review, ships fast, owns it
 </p>
@@ -56,7 +68,13 @@
      ABOUT — man page style
      ═══════════════════════════════════════════════════════════ -->
 
-<h4 align="center">$ man utkarsh</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20man%20utkarsh" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20man%20utkarsh" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20man%20utkarsh" alt="$ man utkarsh" />
+  </picture>
+</p>
 
 <table>
   <tr>
@@ -84,7 +102,13 @@
      SKILLS
      ═══════════════════════════════════════════════════════════ -->
 
-<h4 align="center">$ cat skills.yaml</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20skills.yaml" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20skills.yaml" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20skills.yaml" alt="$ cat skills.yaml" />
+  </picture>
+</p>
 
 <p align="center"><b>languages</b></p>
 <p align="center">
@@ -122,7 +146,13 @@
      PROJECTS
      ═══════════════════════════════════════════════════════════ -->
 
-<h4 align="center">$ ls ./projects --all</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20ls%20.%2Fprojects%20--all" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20ls%20.%2Fprojects%20--all" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20ls%20.%2Fprojects%20--all" alt="$ ls ./projects --all" />
+  </picture>
+</p>
 
 <table>
   <tr>
@@ -188,7 +218,13 @@
      CERTIFICATIONS — full list
      ═══════════════════════════════════════════════════════════ -->
 
-<h4 align="center">$ cat certifications.txt</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20certifications.txt" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20certifications.txt" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20cat%20certifications.txt" alt="$ cat certifications.txt" />
+  </picture>
+</p>
 
 <table>
   <tr>
@@ -221,7 +257,13 @@
      GITHUB STATS
      ═══════════════════════════════════════════════════════════ -->
 
-<h4 align="center">$ github --stat --year=2026</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20github%20--stat%20--year%3D2026" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20github%20--stat%20--year%3D2026" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20github%20--stat%20--year%3D2026" alt="$ github --stat --year=2026" />
+  </picture>
+</p>
 
 <p align="center">
   <img width="55%" src="https://streak-stats.demolab.com?user=UtkarshRana22&theme=default&hide_border=true" />
@@ -253,7 +295,13 @@
      CONTACT
      ═══════════════════════════════════════════════════════════ -->
 
-<h4 align="center">$ contact --init</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20contact%20--init" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=1A7F37&center=true&vCenter=true&width=500&height=32&lines=%24%20contact%20--init" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=39D353&center=true&vCenter=true&width=500&height=32&lines=%24%20contact%20--init" alt="$ contact --init" />
+  </picture>
+</p>
 
 <p align="center">
   <a href="mailto:ranautkarsh8709@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
