@@ -42,14 +42,12 @@
      STATS ROW
      ═══════════════════════════════════════════════════════════ -->
 
-<table align="center">
-  <tr>
-    <td align="center"><b>34+</b><br/><sub>REPOSITORIES</sub></td>
-    <td align="center"><b>156</b><br/><sub>CONTRIBUTIONS / YR</sub></td>
-    <td align="center"><b>96%</b><br/><sub>PR-DRIVEN COMMITS</sub></td>
-    <td align="center"><b>4</b><br/><sub>FOCUS AREAS</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-34%2B-238636?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Contributions%2Fyr-156-238636?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/PR--driven_commits-96%25-238636?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus_areas-4-238636?style=for-the-badge&labelColor=0d1117" />
+</p>
 
 <p align="center">
   <picture>
