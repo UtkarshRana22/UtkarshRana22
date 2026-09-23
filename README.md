@@ -88,7 +88,6 @@
         <li><b>Education:</b> B.Tech CSE, SRMIST (CGPA: 9.51)</li>
         <li><b>Communities:</b> AWS Student Builder Group (SBG) SRMIST · Microsoft Student Ambassador (SRM)</li>
         <li><b>Core Stack:</b> Python · JS/TypeScript · C++ · Java · Kotlin</li>
-        <li><b>Ask Me About:</b> Automation, Embedded Control, Retrieval-Augmented Generation</li>
       </ul>
     </td>
   </tr>
